@@ -9,7 +9,7 @@ import com.cxy.designpattern.product.Dog;
 public class Client {
 		
 	public static void main(String[] args) {
-		Dog dog = SimpFactory.getGog(1);
+		Dog dog = SimpFactory.getGog(SimpFactory.DOG_TYPE_SIBERIANHUSKY);
 		dog.bark();
 		dog.eat();
 	}
