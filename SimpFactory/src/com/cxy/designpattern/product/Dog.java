@@ -5,7 +5,6 @@ package com.cxy.designpattern.product;
  */
 public interface Dog {
 	
-	 public void bark();
-	 
-	 public void eat();
+	void bark();
+	void eat();
 }
