@@ -1,8 +1,9 @@
 package com.cxy.designpattern.simpfactory;
 
-import com.cxy.designpattern.product.Dog;
 
-/** 
+import com.cxy.designpattern.simpfactory.product.Dog;
+
+/**
  *
  * @author chenxingyu
  */
