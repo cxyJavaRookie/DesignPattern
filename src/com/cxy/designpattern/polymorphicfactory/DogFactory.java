@@ -1,7 +1,6 @@
 package com.cxy.designpattern.polymorphicfactory;
 
 import com.cxy.designpattern.polymorphicfactory.product.Pet;
-import com.cxy.designpattern.simpfactory.SimpFactory;
 import com.cxy.designpattern.simpfactory.product.Dog;
 import com.cxy.designpattern.simpfactory.product.GoldenHair;
 import com.cxy.designpattern.simpfactory.product.SiberianHusky;
