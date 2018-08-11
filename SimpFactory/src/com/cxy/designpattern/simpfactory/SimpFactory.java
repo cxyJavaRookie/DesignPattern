@@ -19,6 +19,7 @@ public class SimpFactory {
         }else if (dogType == DOG_TYPE_GOLDENHAIR) {
             return new GoldenHair();
         }
-        return null;
+
+        throw new RuntimeException("没有合适类型的实例");
     }
 }
