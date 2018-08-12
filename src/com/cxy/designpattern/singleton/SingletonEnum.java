@@ -1,5 +1,5 @@
 package com.cxy.designpattern.singleton;
 
-public enum SingletonEume {
+public enum SingletonEnum {
     INSTANCE;
 }
