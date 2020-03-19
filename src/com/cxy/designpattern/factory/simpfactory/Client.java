@@ -1,7 +1,7 @@
-package com.cxy.designpattern.simpfactory;
+package com.cxy.designpattern.factory.simpfactory;
 
 
-import com.cxy.designpattern.simpfactory.product.Dog;
+import com.cxy.designpattern.factory.simpfactory.product.Dog;
 
 /**
  *

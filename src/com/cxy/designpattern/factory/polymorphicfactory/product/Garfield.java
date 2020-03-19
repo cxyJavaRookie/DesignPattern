@@ -1,4 +1,4 @@
-package com.cxy.designpattern.polymorphicfactory.product;
+package com.cxy.designpattern.factory.polymorphicfactory.product;
 
 public class Garfield implements Cat {
 

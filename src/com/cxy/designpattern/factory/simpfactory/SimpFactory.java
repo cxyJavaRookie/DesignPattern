@@ -1,10 +1,9 @@
-package com.cxy.designpattern.simpfactory;
+package com.cxy.designpattern.factory.simpfactory;
 
 
-import com.cxy.designpattern.simpfactory.product.Dog;
-import com.cxy.designpattern.simpfactory.product.GoldenHair;
-import com.cxy.designpattern.simpfactory.product.SiberianHusky;
-
+import com.cxy.designpattern.factory.simpfactory.product.Dog;
+import com.cxy.designpattern.factory.simpfactory.product.GoldenHair;
+import com.cxy.designpattern.factory.simpfactory.product.SiberianHusky;
 /**
  *
  * @author chenxingyu

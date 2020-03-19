@@ -1,9 +1,9 @@
-package com.cxy.designpattern.polymorphicfactory;
+package com.cxy.designpattern.factory.polymorphicfactory;
 
-import com.cxy.designpattern.polymorphicfactory.product.Pet;
-import com.cxy.designpattern.simpfactory.product.Dog;
-import com.cxy.designpattern.simpfactory.product.GoldenHair;
-import com.cxy.designpattern.simpfactory.product.SiberianHusky;
+import com.cxy.designpattern.factory.polymorphicfactory.product.Pet;
+import com.cxy.designpattern.factory.simpfactory.product.Dog;
+import com.cxy.designpattern.factory.simpfactory.product.GoldenHair;
+import com.cxy.designpattern.factory.simpfactory.product.SiberianHusky;
 
 public class DogFactory implements BaseFactory {
 

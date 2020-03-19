@@ -1,6 +1,7 @@
-package com.cxy.designpattern.polymorphicfactory;
+package com.cxy.designpattern.factory.polymorphicfactory;
 
-import com.cxy.designpattern.polymorphicfactory.product.Pet;
+
+import com.cxy.designpattern.factory.polymorphicfactory.product.Pet;
 
 public class Client {
 

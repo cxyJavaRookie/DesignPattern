@@ -1,4 +1,5 @@
-package com.cxy.designpattern.abstractfactory.product;
+package com.cxy.designpattern.factory.abstractfactory.product;
+
 
 public class DogHouse implements House {
 

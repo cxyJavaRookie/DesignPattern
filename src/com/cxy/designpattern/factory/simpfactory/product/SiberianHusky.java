@@ -1,4 +1,4 @@
-package com.cxy.designpattern.simpfactory.product;
+package com.cxy.designpattern.factory.simpfactory.product;
 
 /**
  *

@@ -1,7 +1,7 @@
-package com.cxy.designpattern.abstractfactory;
+package com.cxy.designpattern.factory.abstractfactory;
 
-import com.cxy.designpattern.abstractfactory.product.House;
-import com.cxy.designpattern.polymorphicfactory.product.Pet;
+import com.cxy.designpattern.factory.abstractfactory.product.House;
+import com.cxy.designpattern.factory.polymorphicfactory.product.Pet;
 
 public class AdoptPet {
 
